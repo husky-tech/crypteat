@@ -1,0 +1,29 @@
+.footer_wrapper {
+  background-color: #EEEEEE;
+  height: 130px;
+  width: 100%;
+  bottom: 0;
+}
+
+.footer_inner_wrapper {
+  width: 1200px;
+  height: 130px;
+  display: flex;
+  margin: 0 auto;
+  position: relative;
+}
+
+.footer_pages {
+  padding-right: 40px;
+  padding-left: 30px;
+  padding-top: 10px;
+  font-size: 15px;
+  color: gray;
+}
+
+.footer_company_name {
+  bottom: 0px;
+  right: 0px;
+  position: absolute;
+  color: gray;
+}

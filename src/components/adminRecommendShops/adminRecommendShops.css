@@ -1,0 +1,87 @@
+.admin_recommend_outer_wrapper  {
+  height: auto;
+  width: 80%;
+  margin: 0 auto;
+  }
+
+.admin_title_wrapper {
+  border-bottom: solid 2px #DDDDDD;
+}
+
+
+.admin_recommend_contents {
+  height: 240px;
+  display: flex;
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.admin_store_image {
+  padding-top: 20px;
+  height: 200px;
+  width: 220px;
+}
+
+.admin_contents {
+  height: 220px;
+  width: 500px;
+  position: relative;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.admin_title {
+  font-size: 20px;
+  margin-bottom: 0
+}
+
+.admin_comment {
+  color: black;
+  height: 20px;
+  width: 300px;
+  font-size: 15px;
+
+}
+
+.admin_budgets {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin-top: 4px;
+  margin-left: -16px;
+  margin-bottom: -4px;
+}
+
+.admin_budgets_image {
+  width: 15px;
+  height: 15px;
+  float: left;
+  margin-top: 4px;
+  margin-right: 4px;
+}
+
+.admin_budgets_items {
+  display: flex;
+  align-items: center;
+  margin-top: 4px;
+  margin-left: 16px;
+}
+
+.admin_budgets_label {
+  align-items: center;
+  float: left;
+  width: 100px ;
+}
+
+.admin_budgets_text {
+  float: left;
+  margin-left: 0.3em ;
+  align-items: center;
+  margin-left: 0px;
+}
+
+ol {
+  list-style: none;
+  margin-left: 0px;
+}

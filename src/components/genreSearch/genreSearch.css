@@ -1,0 +1,25 @@
+
+.genre_search_outer {
+
+  flex-basis: 300px;
+
+}
+
+.area_search_wrapper {
+  padding: 12px;
+  border-radius: 2px;
+  border: 1px solid #d5d5d8;
+}
+
+.genre_search_wrapper {
+  margin-top: 12px;
+  padding: 12px;
+  border-radius: 2px;
+  border: 1px solid #d5d5d8;
+}
+
+.search_title {
+  display: flex;
+  font-weight: bold;
+  font-size: 1.2rem;
+}

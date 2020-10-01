@@ -1,0 +1,21 @@
+
+.header_line {
+  border-top: 3px solid orange;
+  width: 100%
+}
+
+.header_wrapper {
+  height: 90px;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.header_sub_title {
+  font-size: 14px;
+  color: #C0C0C0;
+}
+
+.header_main_title {
+  font-size: 30px;
+
+}

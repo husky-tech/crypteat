@@ -1,0 +1,212 @@
+
+.newshops_outer_wrapper  {
+  height: auto;
+  margin: 0 auto;
+  flex-basis: 788px;
+  }
+
+.title_wrapper {
+  border-bottom: solid 2px #DDDDDD;
+}
+
+.newshops_contents {
+  height: 240px;
+  display: flex;
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.store_image {
+  padding-top: 20px;
+  height: 200px;
+  width: 220px;
+}
+
+.contents {
+  height: 220px;
+  width: 500px;
+  position: relative;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+/* 店舗画像横の店舗内容 */
+.title {
+  font-size: 20px;
+  margin-bottom: 0;
+  text-decoration: none;
+  color: black;
+}
+
+.introduce {
+  color: silver;
+  font-size: 15px;
+}
+
+/* 店舗のジャンル */
+
+.genre {
+  color: black;
+  font-size: 13px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin-top: 4px;
+  margin-left: -16px;
+  margin-bottom: -4px;
+}
+
+.genre_items {
+  display: flex;
+  align-items: center;
+  margin-top: 4px;
+  margin-left: 16px;
+}
+
+.genre_label {
+  align-items: center;
+  float: left;
+  width: 250px ;
+}
+
+.genre_image {
+  width: 15px;
+  height: 15px;
+  float: left;
+  margin-top: 4px;
+  margin-right: 4px;
+}
+
+.genre_text {
+  margin-top: 0.2em;
+  margin-left: 0.3em ;
+  align-items: center;
+  margin-left: 0px;
+}
+
+
+/* 予算情報 */
+
+.budgets {
+  color: black;
+  font-size: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin-top: 4px;
+  margin-left: -16px;
+  margin-bottom: -4px;
+}
+
+.budget_noon_image {
+  width: 15px;
+  height: 15px;
+  float: left;
+  margin-top: 4px;
+  margin-right: 4px;
+}
+
+.budget_night_image {
+  width: 15px;
+  height: 15px;
+  float: left;
+  margin-top: 4px;
+  margin-right: 4px;
+}
+
+.budget_noon_item {
+  display: flex;
+  align-items: center;
+  margin-top: 4px;
+  margin-left: 16px;
+}
+
+.budget_night_item {
+  display: flex;
+  align-items: center;
+  margin-top: 4px;
+  margin-left: 1px;
+}
+
+.budget_noon_label {
+  align-items: center;
+  float: left;
+  width: 100px ;
+}
+
+.budget_night_label {
+  align-items: center;
+  float: left;
+  width: 120px ;
+  margin-left: 4px;
+}
+
+.budget_noon_text {
+  float: left;
+  margin-left: 0.3em ;
+  align-items: center;
+  margin-left: 0px;
+}
+
+.budget_night_text {
+  float: left;
+  margin-left: 0.3em ;
+  align-items: center;
+  margin-left: 0px;
+}
+
+
+/* 最寄り駅　必要な時間 */
+
+.place {
+  color: black;
+  font-size: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin-top: 4px;
+  margin-left: -16px;
+  margin-bottom: -4px;
+}
+
+.place_items {
+  display: flex;
+  align-items: center;
+  margin-top: 4px;
+  margin-left: 16px;
+}
+
+.place_label {
+  align-items: center;
+  float: left;
+  width: 250px ;
+}
+
+.station_image {
+  width: 15px;
+  height: 15px;
+  float: left;
+  margin-top: 4px;
+  margin-right: 4px;
+}
+
+
+.place_text {
+  float: left;
+  margin-top: 0.2em;
+  margin-left: 0.3em ;
+  align-items: center;
+  margin-left: 0px;
+}
+
+
+
+ol {
+  list-style: none;
+  margin-left: 0px;
+}
+
+.link_style {
+  text-decoration: none;
+}
